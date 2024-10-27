@@ -33,6 +33,7 @@ const App = () => {
     <section className="currency-converter">
       <div className="currency-div">
         <h1>Currency Converter</h1>
+        <hr />
         <div>
           <label htmlFor="currency_amount">
             Amount:
